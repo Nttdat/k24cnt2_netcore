@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NttdLession01Mvc/1.0.0": {
+        "runtime": {
+          "NttdLession01Mvc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NttdLession01Mvc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

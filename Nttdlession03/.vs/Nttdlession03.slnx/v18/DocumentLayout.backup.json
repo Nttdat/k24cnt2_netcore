@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NTTD\\k24cnt2_netcore\\Nttdlession03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60BF1889-1999-4CAD-86EB-63254BFFF99F}|Nttdlession03.csproj|d:\\nttd\\k24cnt2_netcore\\nttdlession03\\controllers\\nttdproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BF1889-1999-4CAD-86EB-63254BFFF99F}|Nttdlession03.csproj|solutionrelative:controllers\\nttdproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BF1889-1999-4CAD-86EB-63254BFFF99F}|Nttdlession03.csproj|d:\\nttd\\k24cnt2_netcore\\nttdlession03\\models\\nttdproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BF1889-1999-4CAD-86EB-63254BFFF99F}|Nttdlession03.csproj|solutionrelative:models\\nttdproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BF1889-1999-4CAD-86EB-63254BFFF99F}|Nttdlession03.csproj|d:\\nttd\\k24cnt2_netcore\\nttdlession03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60BF1889-1999-4CAD-86EB-63254BFFF99F}|Nttdlession03.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BF1889-1999-4CAD-86EB-63254BFFF99F}|Nttdlession03.csproj|d:\\nttd\\k24cnt2_netcore\\nttdlession03\\views\\nttdproduct\\nttdgetallproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60BF1889-1999-4CAD-86EB-63254BFFF99F}|Nttdlession03.csproj|solutionrelative:views\\nttdproduct\\nttdgetallproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BF1889-1999-4CAD-86EB-63254BFFF99F}|Nttdlession03.csproj|d:\\nttd\\k24cnt2_netcore\\nttdlession03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60BF1889-1999-4CAD-86EB-63254BFFF99F}|Nttdlession03.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\NTTD\\k24cnt2_netcore\\Nttdlession03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\NTTD\\k24cnt2_netcore\\Nttdlession03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-01T16:08:18.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NttdGetAllProduct.cshtml",
+              "DocumentMoniker": "D:\\NTTD\\k24cnt2_netcore\\Nttdlession03\\Views\\NttdProduct\\NttdGetAllProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\NttdProduct\\NttdGetAllProduct.cshtml",
+              "ToolTip": "D:\\NTTD\\k24cnt2_netcore\\Nttdlession03\\Views\\NttdProduct\\NttdGetAllProduct.cshtml",
+              "RelativeToolTip": "Views\\NttdProduct\\NttdGetAllProduct.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-01T16:00:59.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NttdProductController.cs",
+              "DocumentMoniker": "D:\\NTTD\\k24cnt2_netcore\\Nttdlession03\\Controllers\\NttdProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NttdProductController.cs",
+              "ToolTip": "D:\\NTTD\\k24cnt2_netcore\\Nttdlession03\\Controllers\\NttdProductController.cs",
+              "RelativeToolTip": "Controllers\\NttdProductController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwFgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T15:42:59.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NttdProduct.cs",
+              "DocumentMoniker": "D:\\NTTD\\k24cnt2_netcore\\Nttdlession03\\Models\\NttdProduct.cs",
+              "RelativeDocumentMoniker": "Models\\NttdProduct.cs",
+              "ToolTip": "D:\\NTTD\\k24cnt2_netcore\\Nttdlession03\\Models\\NttdProduct.cs",
+              "RelativeToolTip": "Models\\NttdProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T15:35:01.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NTTD\\k24cnt2_netcore\\Nttdlession03\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\NTTD\\k24cnt2_netcore\\Nttdlession03\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-01T15:33:45.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
