@@ -1,0 +1,5 @@
+D:\NTTD\k24cnt2_netcore\NttdLesson05\wwwroot\icon\icon1.png
+D:\NTTD\k24cnt2_netcore\NttdLesson05\wwwroot\icon\icon2.png
+D:\NTTD\k24cnt2_netcore\NttdLesson05\wwwroot\icon\icon3.png
+D:\NTTD\k24cnt2_netcore\NttdLesson05\wwwroot\icon\icon4.png
+D:\NTTD\k24cnt2_netcore\NttdLesson05\wwwroot\icon\icon5.png
