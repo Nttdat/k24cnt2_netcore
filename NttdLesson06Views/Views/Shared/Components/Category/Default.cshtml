@@ -1,0 +1,12 @@
+﻿@model IEnumerable<NttdLesson06Views.Models.Category>;
+<div class="bg-danger">
+	<ul class="list-group"
+		<li class="list-group-i" aria-current="true">Danh mục</li>
+	@foreach (var item in Model)
+	{
+		<li class="list-group-item">
+			<a href="#">@item.CategoryName</a>
+		</li>
+		
+	}
+</div>

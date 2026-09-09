@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NttdLesson06Views/1.0.0": {
+        "runtime": {
+          "NttdLesson06Views.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NttdLesson06Views/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
