@@ -1,0 +1,51 @@
+@model NttdLesson07Models.Models.DataModels.NttdMember
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="card p-3">
+    <h1>Thêm mới thành viên</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+             <form asp-action="Create" method="post" asp-controller="NttdMember">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="NttdMemberId" class="control-label"></label>
+                <input asp-for="NttdMemberId" class="form-control" />
+                <span asp-validation-for="NttdMemberId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NttdUserName" class="control-label"></label>
+                <input asp-for="NttdUserName" class="form-control" />
+                <span asp-validation-for="NttdUserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NttdPassword" class="control-label"></label>
+                <input asp-for="NttdPassword" class="form-control" />
+                <span asp-validation-for="NttdPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NttdFullName" class="control-label"></label>
+                <input asp-for="NttdFullName" class="form-control" />
+                <span asp-validation-for="NttdFullName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NttdEmail" class="control-label"></label>
+                <input asp-for="NttdEmail" class="form-control" />
+                <span asp-validation-for="NttdEmail" class="text-danger"></span>
+            </div>
+                <div class="form-group my-2">
+                    <input type="submit" value="Ghi lại" class="btn btn-primary" />
+                    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+            </div>
+        </form>
+    </div>
+    </div>
+</div>

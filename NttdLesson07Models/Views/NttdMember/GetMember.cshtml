@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Thông  tin member";
+    var member = Model as NttdLesson07Models.Models.DataModels.NttdMember;
+}
+
+<div class="alert alert-info">
+    <h1>@ViewData["Title"]</h1>
+    @*<p>Member id: @ViewBag.Member.NttdMemberId</p>
+    <p>UserName: @ViewBag.Member.NttdUserName</p>
+    <p>UserName: @ViewBag.Member.NttdPassword</p>
+    <p>UserName: @ViewBag.Member.NttdFullName</p>
+    <p>UserName: @ViewBag.Member.NttdEmail</p> *@
+
+    <p>Memberid: @member.NttdMemberId</p>
+    <p>UserName: @member.NttdUserName</p>
+    <p>UserName: @member.NttdPassword</p>
+    <p>UserName: @member.NttdFullName</p>
+    <p>UserName: @member.NttdEmail</p>
+</div>
