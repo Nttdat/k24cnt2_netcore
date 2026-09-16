@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB80CD-9D5D-48B9-8F55-571DD8766483}|NttdLesson08Models.csproj|d:\\nttd\\k24cnt2_netcore\\nttdlesson08models\\controllers\\nttdmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB80CD-9D5D-48B9-8F55-571DD8766483}|NttdLesson08Models.csproj|solutionrelative:controllers\\nttdmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB80CD-9D5D-48B9-8F55-571DD8766483}|NttdLesson08Models.csproj|d:\\nttd\\k24cnt2_netcore\\nttdlesson08models\\views\\nttdmember\\nttddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8BB80CD-9D5D-48B9-8F55-571DD8766483}|NttdLesson08Models.csproj|solutionrelative:views\\nttdmember\\nttddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB80CD-9D5D-48B9-8F55-571DD8766483}|NttdLesson08Models.csproj|d:\\nttd\\k24cnt2_netcore\\nttdlesson08models\\views\\nttdmember\\nttddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8BB80CD-9D5D-48B9-8F55-571DD8766483}|NttdLesson08Models.csproj|solutionrelative:views\\nttdmember\\nttddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB80CD-9D5D-48B9-8F55-571DD8766483}|NttdLesson08Models.csproj|d:\\nttd\\k24cnt2_netcore\\nttdlesson08models\\views\\nttdmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8BB80CD-9D5D-48B9-8F55-571DD8766483}|NttdLesson08Models.csproj|solutionrelative:views\\nttdmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB80CD-9D5D-48B9-8F55-571DD8766483}|NttdLesson08Models.csproj|d:\\nttd\\k24cnt2_netcore\\nttdlesson08models\\controllers\\nttdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB80CD-9D5D-48B9-8F55-571DD8766483}|NttdLesson08Models.csproj|solutionrelative:controllers\\nttdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB80CD-9D5D-48B9-8F55-571DD8766483}|NttdLesson08Models.csproj|d:\\nttd\\k24cnt2_netcore\\nttdlesson08models\\models\\nttdmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB80CD-9D5D-48B9-8F55-571DD8766483}|NttdLesson08Models.csproj|solutionrelative:models\\nttdmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB80CD-9D5D-48B9-8F55-571DD8766483}|NttdLesson08Models.csproj|d:\\nttd\\k24cnt2_netcore\\nttdlesson08models\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8BB80CD-9D5D-48B9-8F55-571DD8766483}|NttdLesson08Models.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB80CD-9D5D-48B9-8F55-571DD8766483}|NttdLesson08Models.csproj|d:\\nttd\\k24cnt2_netcore\\nttdlesson08models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB80CD-9D5D-48B9-8F55-571DD8766483}|NttdLesson08Models.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB80CD-9D5D-48B9-8F55-571DD8766483}|NttdLesson08Models.csproj|d:\\nttd\\k24cnt2_netcore\\nttdlesson08models\\views\\nttdhome\\nttdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8BB80CD-9D5D-48B9-8F55-571DD8766483}|NttdLesson08Models.csproj|solutionrelative:views\\nttdhome\\nttdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NttdDelete.cshtml",
+              "DocumentMoniker": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\Views\\NttdMember\\NttdDelete.cshtml",
+              "RelativeDocumentMoniker": "Views\\NttdMember\\NttdDelete.cshtml",
+              "ToolTip": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\Views\\NttdMember\\NttdDelete.cshtml",
+              "RelativeToolTip": "Views\\NttdMember\\NttdDelete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T14:36:55.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NttdDetails.cshtml",
+              "DocumentMoniker": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\Views\\NttdMember\\NttdDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\NttdMember\\NttdDetails.cshtml",
+              "ToolTip": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\Views\\NttdMember\\NttdDetails.cshtml",
+              "RelativeToolTip": "Views\\NttdMember\\NttdDetails.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T14:33:58.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\Views\\NttdMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\NttdMember\\Index.cshtml",
+              "ToolTip": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\Views\\NttdMember\\Index.cshtml",
+              "RelativeToolTip": "Views\\NttdMember\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T14:05:40.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NttdMemberController.cs",
+              "DocumentMoniker": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\Controllers\\NttdMemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NttdMemberController.cs",
+              "ToolTip": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\Controllers\\NttdMemberController.cs",
+              "RelativeToolTip": "Controllers\\NttdMemberController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswGEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T14:00:11.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NttdMember.cs",
+              "DocumentMoniker": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\Models\\NttdMember.cs",
+              "RelativeDocumentMoniker": "Models\\NttdMember.cs",
+              "ToolTip": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\Models\\NttdMember.cs",
+              "RelativeToolTip": "Models\\NttdMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T13:58:14.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T13:52:12.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T13:50:34.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NttdAbout.cshtml",
+              "DocumentMoniker": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\Views\\NttdHome\\NttdAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\NttdHome\\NttdAbout.cshtml",
+              "ToolTip": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\Views\\NttdHome\\NttdAbout.cshtml",
+              "RelativeToolTip": "Views\\NttdHome\\NttdAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T13:48:26.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NttdHomeController.cs",
+              "DocumentMoniker": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\Controllers\\NttdHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NttdHomeController.cs",
+              "ToolTip": "D:\\NTTD\\k24cnt2_netcore\\NttdLesson08Models\\Controllers\\NttdHomeController.cs",
+              "RelativeToolTip": "Controllers\\NttdHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T13:46:31.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
