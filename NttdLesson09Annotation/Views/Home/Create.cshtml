@@ -1,0 +1,48 @@
+﻿@model NttdLesson09Annotation.Models.DataViewModels.NttdMemberRegister
+
+@{
+    ViewData["Title"] = "Thêm mới thành viên";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h4>NttdMemberRegister</h4>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group mb-3">
+                <label asp-for="NttdMemberUserName" class="control-label"></label>
+                <input asp-for="NttdMemberUserName" class="form-control" />
+                <span asp-validation-for="NttdMemberUserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="NttdMemberPassWord" class="control-label"></label>
+                <input asp-for="NttdMemberPassWord" type="password" class="form-control" />
+                <span asp-validation-for="NttdMemberPassWord" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="NttdMemberEmail" class="control-label"></label>
+                <input asp-for="NttdMemberEmail" class="form-control" />
+                <span asp-validation-for="NttdMemberEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

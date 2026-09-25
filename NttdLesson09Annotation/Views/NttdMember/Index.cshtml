@@ -1,0 +1,59 @@
+@model IEnumerable<NttdLesson09Annotation.Models.DataModels.NttdMember>
+
+@{
+    ViewData["Title"] = "Danh sách thành viên";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NttdMemberUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NttdMemberPassWord)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NttdMemberEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NttdMemberPhoneNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NttdMemberBirthday)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.NttdMemberUserName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.NttdMemberPassWord)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.NttdMemberEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.NttdMemberPhoneNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.NttdMemberBirthday)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.NttdMemberId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.NttdMemberId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.NttdMemberId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
