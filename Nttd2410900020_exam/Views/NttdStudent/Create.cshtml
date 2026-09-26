@@ -1,0 +1,60 @@
+@model Nttd2410900020_exam.Models.NttdStudent
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>NttdStudent</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="NttdName" class="control-label"></label>
+                <input asp-for="NttdName" class="form-control" />
+                <span asp-validation-for="NttdName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NttdGender" class="control-label"></label>
+                <input asp-for="NttdGender" class="form-check-input" />
+                <span asp-validation-for="NttdGender" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NttdBirthDay" class="control-label"></label>
+                <input asp-for="NttdBirthDay" class="form-control" />
+                <span asp-validation-for="NttdBirthDay" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NttdEmail" class="control-label"></label>
+                <input asp-for="NttdEmail" class="form-control" />
+                <span asp-validation-for="NttdEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NttdPhone" class="control-label"></label>
+                <input asp-for="NttdPhone" class="form-control" />
+                <span asp-validation-for="NttdPhone" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NttdActive" class="control-label"></label>
+                <input asp-for="NttdActive" class="form-check-input" />
+                <span asp-validation-for="NttdActive" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
