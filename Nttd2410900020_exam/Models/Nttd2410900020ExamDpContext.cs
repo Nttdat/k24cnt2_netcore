@@ -21,7 +21,7 @@ public partial class Nttd2410900020ExamDpContext : DbContext
 
     public virtual DbSet<NttdStudent> NttdStudents { get; set; }
 
-    public virtual DbSet<Nttdtudent> Nttdtudents { get; set; }
+    public virtual DbSet<NttdStudent> Nttdtudents { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
@@ -74,7 +74,7 @@ public partial class Nttd2410900020ExamDpContext : DbContext
                 .IsUnicode(false);
         });
 
-        modelBuilder.Entity<Nttdtudent>(entity =>
+        modelBuilder.Entity<NttdStudent>(entity =>
         {
             entity.HasKey(e => e.Id).HasName("PK__Nttdtude__3214EC071A282383");
 

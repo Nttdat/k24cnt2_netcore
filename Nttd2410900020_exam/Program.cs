@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Nttd2410900020_exam.Models;
 namespace Nttd2410900020_exam
 {
     public class Program
@@ -6,11 +7,12 @@ namespace Nttd2410900020_exam
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-            var connectionString = builder.Configuration.GetConnectionString("Nttd2410900020ExamDpContext") ?? throw new InvalidOperationException("Connection string 'Nttd2410900020ExamDpContext' not found.");
 
-            builder.Services.AddDbContext<Nttd2410900020ExamDpContext>(options => options.UseSqlServer(connectionString));
+            // Đăng ký DbContext đọc từ appsettings.json
+            var connectionString = builder.Configuration.GetConnectionString("Nttd2410900020ExamDpContext");
+            builder.Services.AddDbContext<Nttd2410900020ExamDpContext>(options =>
+                options.UseSqlServer(connectionString));
 
-            // Add services to the container.
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
@@ -37,15 +39,6 @@ namespace Nttd2410900020_exam
             app.Run();
         }
     }
-
-    public class Nttd2410900020ExamDpContext : DbContext
-    {
-        public Nttd2410900020ExamDpContext(DbContextOptions<Nttd2410900020ExamDpContext> options)
-            : base(options)
-        {
-        }
-
-        // Add your DbSet<TEntity> properties here, e.g.:
-        // public DbSet<MyEntity> MyEntities { get; set; }
-    }
 }
+
+    

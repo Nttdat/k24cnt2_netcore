@@ -43,24 +43,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NTTD/k24cnt2_netcore/Nttd2410900020_exam/Views/NttdStudent/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnR0ZFN0dWRlbnRcQ3JlYXRlLmNzaHRtbA==
+[D:/NTTD/k24cnt2_netcore/Nttd2410900020_exam/Views/NttdStudents/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnR0ZFN0dWRlbnRzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NTTD/k24cnt2_netcore/Nttd2410900020_exam/Views/NttdStudent/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnR0ZFN0dWRlbnRcRGVsZXRlLmNzaHRtbA==
+[D:/NTTD/k24cnt2_netcore/Nttd2410900020_exam/Views/NttdStudents/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnR0ZFN0dWRlbnRzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NTTD/k24cnt2_netcore/Nttd2410900020_exam/Views/NttdStudent/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnR0ZFN0dWRlbnRcRGV0YWlscy5jc2h0bWw=
+[D:/NTTD/k24cnt2_netcore/Nttd2410900020_exam/Views/NttdStudents/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnR0ZFN0dWRlbnRzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NTTD/k24cnt2_netcore/Nttd2410900020_exam/Views/NttdStudent/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnR0ZFN0dWRlbnRcRWRpdC5jc2h0bWw=
+[D:/NTTD/k24cnt2_netcore/Nttd2410900020_exam/Views/NttdStudents/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnR0ZFN0dWRlbnRzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NTTD/k24cnt2_netcore/Nttd2410900020_exam/Views/NttdStudent/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnR0ZFN0dWRlbnRcSW5kZXguY3NodG1s
+[D:/NTTD/k24cnt2_netcore/Nttd2410900020_exam/Views/NttdStudents/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnR0ZFN0dWRlbnRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/NTTD/k24cnt2_netcore/Nttd2410900020_exam/Views/Shared/Error.cshtml]
